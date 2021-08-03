@@ -1,0 +1,25 @@
+﻿body {
+    background-color : blueviolet;
+}
+
+h2 {
+    background-color: yellow;
+    color: blue;
+}
+
+a {
+    background-color: red;
+    color: black;
+}
+
+/* Med # foran udvælger vi elementer specificeret med ID */
+#DivTest {
+    background-color: green;
+    color: darkorange;
+}
+
+/* Med . foran udvælger vi elementer specificeret med class */
+.ClassTest {
+    background-color: darkblue;
+    color: cyan;
+}
